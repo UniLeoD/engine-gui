@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "虵改变了中国",
+            "author": "罗伯特·劳伦斯·库恩",
+            "cover": "who-changed-china.jpg"
+        },
+        {
+            "id": 2,
+            "name": "中华人民共和国香港特别行政区基本法",
+            "author": "中央政府？",
+            "cover": "basic-law.jpg"
+        },
+        {
+            "id": 3,
+            "name": "待定",
+            "author": "null",
+            "cover": null
+        }
+    ]
+}

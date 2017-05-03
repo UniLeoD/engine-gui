@@ -1,0 +1,24 @@
+{
+    "images": [
+        {
+            "name": "basic-law.jpg",
+            "width": 82,
+            "height": 108
+        },
+        {
+            "name": "no-cover.jpg",
+            "width": 82,
+            "height": 108
+        },
+        {
+            "name": "who-changed-china.jpg",
+            "width": 82,
+            "height": 108
+        },
+        {
+            "name": "delete.png",
+            "width": 66,
+            "height": 50
+        }     
+    ]
+}
